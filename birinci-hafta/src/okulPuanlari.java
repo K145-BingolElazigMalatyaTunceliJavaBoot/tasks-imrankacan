@@ -11,17 +11,17 @@ public class okulPuanlari {
          */
         Scanner input = new Scanner(System.in);
         System.out.print("Puanınızı Giriniz: ");
-        int not = input.nextInt();
+        int score = input.nextInt();
 
-        if (not<=35){
+        if (score<=35){
             System.out.print("Harf Notunuz: FF");
-        } else if (not<=50) {
+        } else if (score<=50) {
             System.out.print("Harf Notunuz: DC");
 
-        } else if (not<=70) {
+        } else if (score<=70) {
             System.out.print("Harf Notunuz: BB");
 
-        }else if (not<=100) {
+        }else if (score<=100) {
             System.out.print("Harf Notunuz: AA");
         }
         else {
