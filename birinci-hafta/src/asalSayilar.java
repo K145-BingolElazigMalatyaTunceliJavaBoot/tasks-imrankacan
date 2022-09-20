@@ -1,9 +1,6 @@
 public class asalSayilar {
     public static void main(String[] args) {
-        /**
-         * 3 ile 100 arasında asal sayıların toplamını bulan program.
-         */
-
+        // 3 ile 100 arasında asal sayıların toplamını bulan program.
         int toplam = 0;
         for(int sayi=3;sayi<=100;sayi++)
         {
