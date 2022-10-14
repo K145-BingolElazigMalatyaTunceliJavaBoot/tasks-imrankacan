@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        //Fruits fruits = new Fruits();
+        /*Pear pear = new Pear();
+        System.out.println(pear.getFruitName());*/
+
     }
 }
