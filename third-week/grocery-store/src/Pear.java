@@ -5,7 +5,7 @@ public class Pear extends Fruits{
 
     @Override
     public void setKg(int kg) {
-        super.setKg(30);
+        super.setKg(100);
     }
 
     @Override

@@ -5,7 +5,7 @@ public class Cherry extends Fruits{
 
     @Override
     public void setKg(int kg) {
-        super.setKg(35);
+        super.setKg(100);
     }
 
     @Override

@@ -5,7 +5,7 @@ public class Apple extends Fruits{
 
     @Override
     public void setKg(int kg) {
-        super.setKg(16);
+        super.setKg(100);
     }
 
     @Override
