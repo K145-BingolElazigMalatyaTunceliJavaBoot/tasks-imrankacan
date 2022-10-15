@@ -25,7 +25,7 @@ public class task {
     //ODEV 2:
     /**
      *  Bir havayolu şirketi bilet alma sistemi tasarlamamız gerekiyor.
-     *  Case 1: En az 2 farklı bilet hesaplama yöntemi olan bir uçuş ssistemi olmalı. Örnel: THY ve Pegasus gibi
+     *  Case 1: En az 2 farklı bilet hesaplama yöntemi olan bir uçuş sistemi olmalı. Örnel: THY ve Pegasus gibi
      *  Case2: Yolcu bilet almaya geldiğinde ona boş olan koltuklar gösterilmeli.
      *  Bunun için koltyuk numaralandırılması önceden yapılabilir.
      *  A1, A2, A3, B1,B2,B3 gibi koltuklar doldurulabilir.
